@@ -5,7 +5,7 @@ Hello there - I'm Sailesh
 - 👯 How to reach me: saileshadhikari72@gmail.com<br>
 -->view my work:<br>
 -Spotify-clone--https://saileshadh.github.io/Spotify-Clone/<br>
--Portfolio--https://saileshadh.github.io/sportfolio/<br>
+-Portfolio--https://saileshadh.github.io/port/<br>
 -Rock-paper-scissors game--https://saileshadh.github.io/rock-paper-scissors/<br>
 -To-Do-List--https://saileshadh.github.io/To-do-list/<br>
 -News-portal clone--https://saileshadh.github.io/newsportal/<br>
