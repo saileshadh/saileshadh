@@ -2,8 +2,8 @@ Hello there - I'm Sailesh
 - 🔭I'm computer engineer.
 - 🌱I’m intreseted in machine learning and web development.
 - 👯 How to reach me: saileshadhikari72@gmail.com<br>
-- ![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
 -www.saileshadhikari.com.np<br>
+![saileshadh stats](https://github-readme-stats.vercel.app/api?username=saileshadh&show_icons=true&theme=radical)
 -->view my work:<br>
 -Sentiment Analysis--https://saileshadh.github.io/Sentiment-Analysis-Using-Machine-Learning-Algorithm/</br>
 -Intracranial hemorrhage detection in ct scans using deep learning--https://github.com/saileshadh/Major-Project-ICH-Detection</br>
