@@ -1,8 +1,8 @@
 Hello there - I'm Sailesh
-- 🔭I'm currently working on web development.
-- 🌱I’m currently learning advanced reactjs topics.
-- 🥅2023 Goals: Polish my skill on frontend development and explore new frontend development tools.
+- 🔭I'm computer engineer.
+- 🌱I’m intreseted in machine learning and web development.
 - 👯 How to reach me: saileshadhikari72@gmail.com<br>
+- ![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
 -www.saileshadhikari.com.np<br>
 -->view my work:<br>
 -Sentiment Analysis--https://saileshadh.github.io/Sentiment-Analysis-Using-Machine-Learning-Algorithm/</br>
