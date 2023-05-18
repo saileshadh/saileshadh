@@ -5,7 +5,7 @@ Hello there - I'm Sailesh
 - saileshadhikari72@gmail.com<br>
 -www.saileshadhikari.com.np<br>
 ![saileshadh stats](https://github-readme-stats.vercel.app/api?username=saileshadh&show_icons=true&theme=radical)
-![saileshadh stats](https://github-readme-stats.vercel.app/api?username=saileshadh&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saileshadh)](https://github.com/saileshadh/github-readme-stats)
 -->view my work:<br>
 -Sentiment Analysis--https://saileshadh.github.io/Sentiment-Analysis-Using-Machine-Learning-Algorithm/</br>
 -Intracranial hemorrhage detection in ct scans using deep learning--https://github.com/saileshadh/Major-Project-ICH-Detection</br>
