@@ -1,6 +1,6 @@
 Hello there - I'm Sailesh
 - 🔭I'm computer engineer.
-- 🌱I’m intreseted in Application development, Web development and Blockchain.
+- 🌱I’m intreseted in Test engineering, Web development and Blockchain.
 - 👯 How to reach me: 
 - saileshadhikari72@gmail.com<br>
 -www.saileshadhikari.com.np<br>
